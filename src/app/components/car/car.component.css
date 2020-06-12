@@ -1,0 +1,15 @@
+button {
+    margin-right: 10px;
+}
+.btn_del {
+    font-size: 0.8em;
+    line-height: 10px;
+    padding: 5px;
+    margin-left: 3px;
+}
+.container {
+    margin-bottom: 50px;
+}
+.alert-warning ul{
+    list-style: none;
+}
